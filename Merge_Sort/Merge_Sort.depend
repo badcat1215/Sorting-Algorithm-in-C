@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540303186 source:e:\_sublime\code_blocks\merge_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
